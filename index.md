@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Lens by HTML5 UP
+title: NEO brutal
 ---
 
 <!-- Thumbnail -->
