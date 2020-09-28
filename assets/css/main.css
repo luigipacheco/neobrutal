@@ -136,7 +136,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #00D3B7;
+			color: #ff6600;
 		}
 
 	strong, b {
@@ -282,7 +282,7 @@
 		button:hover,
 		.button:hover {
 			border-color: #ff6600;
-			color: #00D3B7;
+			color: #ff6600;
 		}
 
 			input[type="submit"]:hover:active,
