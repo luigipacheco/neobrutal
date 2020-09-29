@@ -1,6 +1,6 @@
 # Site settings
 title: NEO brutal
-description: RAW MATERIALS + HIGH TECH
+description: RAW MATERIAL + HIGH TECH
 baseurl: "/neobrutal" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
