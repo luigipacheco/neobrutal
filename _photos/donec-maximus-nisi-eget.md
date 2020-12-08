@@ -1,6 +1,6 @@
 ---
-title: Donec maximus nisi eget
-image: assets/images/fulls/04.jpg
-thumbnail: assets/images/thumbs/04.jpg
-caption: Tristique in nulla vel congue. Sed sociis natoque parturient nascetur.
+title: Neobrutal Chessmen
+image: assets/images/fulls/neochessmen.png
+thumbnail: assets/images/thumbs/neochessmentn.png
+caption: Casted in fiber reinforced concrete from 3D printed resin. Coming soon to Kickstarter.
 ---
