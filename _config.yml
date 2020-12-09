@@ -1,8 +1,8 @@
 # Site settings
 title: NEO brutal
 description: RAW MATERIALS // HIGH TECH
-baseurl: "neobrutal" # the subpath of your site, e.g. /blog
-url: "neobrutal.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 author:
 logo: 'assets/images/logo.png'
 
