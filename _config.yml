@@ -23,6 +23,5 @@ slack_url:
 twitter_url:
 
 # Build settings
-markdown: kramdown
 
-theme: jekyll-theme-slate
+markdown: kramdown
